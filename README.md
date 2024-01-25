@@ -20,12 +20,12 @@ c'est une implimentation de l'article " Significantly Fast and Robust Fuzzy C-Me
 - !pip install scikit-image
 - 
 ## Tech
-
-
 - Python
 - Numpy
 - openCv
 - Google Colab
+## Data 
+Berkeley Segmentation Data Set (BSDS) 
 
 ## Development
 
